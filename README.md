@@ -1,4 +1,4 @@
-# Securetus MDR Executive Report Generator
+# MDR Executive Report Generator
 
 Turn raw MDR/SIEM alerts into an executive-friendly HTML report and CSV.
 
